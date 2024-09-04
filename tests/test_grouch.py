@@ -3,7 +3,6 @@
 
 """Tests for `grouch` package."""
 
-
 import unittest
 
 from grouch import grouch
@@ -23,6 +22,7 @@ class TestGrouch(unittest.TestCase):
     def test_000_something(self):
         """Test something."""
         pass
+
 
 if __name__ == "__main__":
     unittest.main()
